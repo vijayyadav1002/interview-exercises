@@ -20,3 +20,4 @@ You will notice that there a several directories, some prefixed with UI and othe
 - For PS exercises you should not use any libraries just vanilla JS.
 - All completed exercise files should reside in the applicable exercise's directory.
 - Add comments to each exercise README describing how to run you code.
+- Have fun!
