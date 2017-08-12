@@ -7,6 +7,6 @@
   - when no palindrome exists => 'No Palindrome exists'
   - When there is only one palindrome => 'No Second Palindrome exists'
   - When there is a second palindrome => 'Found Palindrome: [PALINDROME]'
-- After you complete the exercise, provide notes below on how you code can be ran whether it be by simply opening a index.html file or through an npm command
+- After you complete the exercise, provide any notes on your code below such as how to run your example
 
 ## Candidate Notes:
