@@ -9,7 +9,7 @@ You will notice that there a several directories, some prefixed with UI and othe
 ## Instructions
 
 1) Clone git repo as you will be uploading you work to your own repo later.
-2) Select one UI exercise and two PS exercises you would like to work.
+2) Select one UI exercise and one PS exercises you would like to work.
 3) Review the instructions for each exercise in that directory's README.
 4) Commit all your work into the applicable directories and push your work to any web-based git platform such as Github or Bitbucket.
 5) Send in the link to your finished repo for review.
