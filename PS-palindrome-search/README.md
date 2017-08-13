@@ -9,7 +9,7 @@
   - When there is a second palindrome => 'Found Palindrome: [PALINDROME]'
 - After you complete the exercise, provide any notes on your code below such as how to run your example
 
-## Note
-   - First Longest Palindrome code be substrig for example "referrer". Here referrer is not a palindrome but 'refer' is which is the longest. And the second longest is 'erre'. 
-
 ## Candidate Notes:
+   - First Longest Palindrome could be substrig for example "referrer". Here referrer is not a palindrome but 'refer' is. So the second longest palindrome is 'erre'. 
+
+
