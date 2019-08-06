@@ -10,3 +10,15 @@
 - After you complete the exercise, provide any notes on your code below such as how to run your example
 
 ## Candidate Notes:
+var object = {
+  person:{
+    name:{
+      first: 'FirstName',
+      middleInitial: 'I',
+      lastName: 'LastName'
+    }
+  }
+}
+
+_.get(object, 'person[0]'.name.lastName)
+//The output would be 'LastName'
