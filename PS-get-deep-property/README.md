@@ -9,4 +9,14 @@
   - The output would be: 'LastName'
 - After you complete the exercise, provide any notes on your code below such as how to run your example
 
+## Sample Code Structure
+```javascript
+function getDeepProperty(obj, path) {
+  // your code goes here
+  // return;
+}
+const someObj = {person: {name: {first: 'FirstName', middleInitial: 'I', lastName: 'LastName''}}};
+const value = getDeepProperty(someObj, 'person.name.lastName');
+```
+
 ## Candidate Notes:
