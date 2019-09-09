@@ -16,7 +16,7 @@ You will notice that there a several directories, some prefixed with UI and othe
 
 ## Rules
 
-- For UI exercises you may use any UI framework you choose or none at all if that is your style.
+- For UI exercises you should use either React OR Vue.js but no other third party libraries to accomplish the task.
 - For PS exercises you should not use any libraries just vanilla JS.
 - All completed exercise files should reside in the applicable exercise's directory.
 - Add comments to each exercise README describing how to run you code.
